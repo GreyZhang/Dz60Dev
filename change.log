@@ -1,0 +1,8 @@
+################################################################################
+# V0.1.0 Grey 2017/11/19
+#-------------------------------------------------------------------------------
+# First version fot commit, lincluding the following function:
+# 1. System clock configured as 16MHz.
+# 2. A simple task function with 10ms, 20ms, 100ms task service.
+# 3. A demo use for 100ms task with a LED blinks every 1s.
+#
