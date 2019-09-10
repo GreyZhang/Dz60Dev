@@ -1,3 +1,0 @@
-#if defined (__BANKED__)
-#pragma CODE_SEG __NEAR_SEG NON_BANKED
-#endif
